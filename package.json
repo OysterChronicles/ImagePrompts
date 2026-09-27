@@ -1,0 +1,11 @@
+{
+  "name": "prompt-playground",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Prompt Playground - a directory of 400 image-generation slash commands with search, category filtering, multi-select and copy.",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'No build step needed - static HTML site'",
+    "start": "npx serve ."
+  }
+}
